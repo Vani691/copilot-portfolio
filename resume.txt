@@ -1,20 +1,20 @@
-Aarav Sharma
+Shravani Mane
 CSE-AIML Engineering Student
 
-Email: aarav@example.com
-LinkedIn: linkedin.com/in/aaravsharma
-GitHub: github.com/aaravsharma
+Email: shravani.mane@email.com
+LinkedIn: linkedin.com/in/shravani-mane
+GitHub: github.com/ShravaniMane
 
 Summary
-A curious and driven engineering student focused on Computer Science, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions that combine strong technical foundations with thoughtful user experience.
+A curious and driven engineering student focused on Computer Science, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions that combine strong technical foundations with thoughtful user experience and accessible design.
 
 Skills
-- Python, Java, JavaScript, C++
-- Machine Learning, NLP, Data Visualization
+- Python, Java, JavaScript, SQL
+- Machine Learning, NLP, Data Analysis
 - HTML, CSS, Responsive Web Design
-- Git, VS Code, Linux
+- Git, VS Code, Linux, Jupyter
 
 Projects
-- Emotion Detection App: Built a lightweight ML-powered app for sentiment classification.
-- Smart Study Planner: Designed a responsive product dashboard for student productivity.
-- Portfolio Website: Created a modern personal website with theming and accessibility in mind.
+- AI Study Assistant: Built an NLP-based tool to summarize notes and extract key ideas.
+- Smart Task Dashboard: Designed a responsive productivity dashboard for tracking goals and deadlines.
+- Personal Portfolio Website: Created a polished personal site with theme switching and accessible UI.
