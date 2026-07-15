@@ -3,7 +3,7 @@ CSE-AIML Engineering Student
 
 Email: shravani.mane@email.com
 LinkedIn: linkedin.com/in/shravani-mane
-GitHub: github.com/ShravaniMane
+GitHub: github.com/Vani691
 
 Summary
 A curious and driven engineering student focused on Computer Science, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions that combine strong technical foundations with thoughtful user experience and accessible design.
