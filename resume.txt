@@ -1,0 +1,20 @@
+Aarav Sharma
+CSE-AIML Engineering Student
+
+Email: aarav@example.com
+LinkedIn: linkedin.com/in/aaravsharma
+GitHub: github.com/aaravsharma
+
+Summary
+A curious and driven engineering student focused on Computer Science, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions that combine strong technical foundations with thoughtful user experience.
+
+Skills
+- Python, Java, JavaScript, C++
+- Machine Learning, NLP, Data Visualization
+- HTML, CSS, Responsive Web Design
+- Git, VS Code, Linux
+
+Projects
+- Emotion Detection App: Built a lightweight ML-powered app for sentiment classification.
+- Smart Study Planner: Designed a responsive product dashboard for student productivity.
+- Portfolio Website: Created a modern personal website with theming and accessibility in mind.

@@ -1,1 +1,198 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Responsive portfolio for a CSE-AIML engineering student."
+    />
+    <title>Aarav Sharma | CSE-AIML Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header">
+      <nav class="nav container" aria-label="Primary navigation">
+        <a class="brand" href="#home">Aarav Sharma</a>
+        <button class="nav-toggle" type="button" aria-label="Toggle navigation menu" aria-controls="nav-links" aria-expanded="false">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <ul class="nav-links" id="nav-links">
+          <li><a href="#about">About</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle color theme">
+          🌙
+        </button>
+      </nav>
+    </header>
+
+    <main id="main-content">
+      <section id="home" class="hero container">
+        <div class="hero-content">
+          <p class="eyebrow">CSE-AIML Engineering Student</p>
+          <h1>
+            Hi, I’m <span>Aarav Sharma</span>
+          </h1>
+          <p class="hero-text">
+            I build practical AI solutions and polished web experiences with a strong
+            foundation in data, algorithms, and modern product development.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#projects">Explore Projects</a>
+            <a class="btn btn-secondary" href="resume.txt" download>Download Resume</a>
+            <a class="btn btn-secondary" href="#contact">Let’s Connect</a>
+          </div>
+          <div class="hero-tags" aria-label="Technical interests">
+            <span>Python</span>
+            <span>Machine Learning</span>
+            <span>Web Development</span>
+          </div>
+        </div>
+
+        <aside class="hero-card" aria-label="Quick summary">
+          <p class="card-label">Currently focused on</p>
+          <h2>AI + Full-Stack Learning</h2>
+          <ul>
+            <li>Building data-driven applications</li>
+            <li>Exploring NLP and computer vision</li>
+            <li>Creating responsive user interfaces</li>
+          </ul>
+        </aside>
+      </section>
+
+      <section id="about" class="section container">
+        <div class="section-heading">
+          <p class="eyebrow">About Me</p>
+          <h2>Driven by curiosity and real-world impact</h2>
+        </div>
+        <div class="about-grid">
+          <p>
+            I’m an engineering student specializing in Computer Science with a focus on
+            Artificial Intelligence and Machine Learning. I enjoy turning ideas into
+            useful software through careful research, clean code, and thoughtful design.
+          </p>
+          <p>
+            My journey blends problem solving, data analysis, and frontend development,
+            allowing me to build solutions that are both technically strong and easy to use.
+          </p>
+        </div>
+      </section>
+
+      <section id="skills" class="section section-alt">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Technical Skills</p>
+            <h2>What I work with</h2>
+          </div>
+          <div class="skills-grid">
+            <article class="skill-card">
+              <h3>Programming</h3>
+              <p>Python, Java, JavaScript, C++</p>
+            </article>
+            <article class="skill-card">
+              <h3>AI & Data</h3>
+              <p>Machine Learning, NLP, Data Visualization</p>
+            </article>
+            <article class="skill-card">
+              <h3>Web</h3>
+              <p>HTML, CSS, JavaScript, Responsive Design</p>
+            </article>
+            <article class="skill-card">
+              <h3>Tools</h3>
+              <p>Git, VS Code, Linux, Figma basics</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="projects" class="section container">
+        <div class="section-heading">
+          <p class="eyebrow">Projects</p>
+          <h2>Selected work</h2>
+        </div>
+        <div class="projects-grid">
+          <article class="project-card">
+            <h3>Emotion Detection App</h3>
+            <p>
+              Built a lightweight ML-powered app that classifies text sentiment and visualizes
+              outcomes for everyday users.
+            </p>
+            <div class="project-tags">
+              <span>Python</span>
+              <span>ML</span>
+            </div>
+          </article>
+          <article class="project-card">
+            <h3>Smart Study Planner</h3>
+            <p>
+              Designed a responsive productivity dashboard that helps students organize study
+              schedules and track progress.
+            </p>
+            <div class="project-tags">
+              <span>JavaScript</span>
+              <span>UI</span>
+            </div>
+          </article>
+          <article class="project-card">
+            <h3>Portfolio Website</h3>
+            <p>
+              Created a modern personal site with theming, smooth motion, and clean semantics.
+            </p>
+            <div class="project-tags">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JS</span>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" class="section section-alt">
+        <div class="container contact-layout">
+          <div>
+            <p class="eyebrow">Contact</p>
+            <h2>Let’s build something meaningful</h2>
+            <p>
+              I’m always eager to collaborate on smart products, internships, or creative ideas.
+            </p>
+            <ul class="contact-list">
+              <li>Email: <a href="mailto:aarav@example.com">aarav@example.com</a></li>
+              <li>LinkedIn: <a href="https://www.linkedin.com/in/aaravsharma" target="_blank" rel="noreferrer">linkedin.com/in/aaravsharma</a></li>
+              <li>GitHub: <a href="https://github.com/aaravsharma" target="_blank" rel="noreferrer">github.com/aaravsharma</a></li>
+            </ul>
+          </div>
+
+          <form class="contact-form">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" placeholder="Your name" required />
+
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" placeholder="you@example.com" required />
+
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="5" placeholder="Tell me about your idea" required></textarea>
+
+            <button class="btn btn-primary" type="submit">Send Message</button>
+            <p class="form-message" aria-live="polite"></p>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-content">
+        <p>© 2026 Aarav Sharma. Built with HTML, CSS, and JavaScript.</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
 
